@@ -8,7 +8,7 @@ Many things in the css file were combined creating cleaner and less busy code. A
 
 ## Screen Shot Image of Website
 
-![Screenshot](images/Website-Screenshot.png)
+![Screenshot](assets/images/Website-Screenshot.png)
 
 ## Link To Website
 
